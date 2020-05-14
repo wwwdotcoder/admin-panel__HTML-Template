@@ -1,0 +1,10 @@
+Admin Panel: Dashboard
+
+argon-dashboard: https://github.com/creativetimofficial/argon-dashboard
+coreui.io
+sb-admin-2
+purple-free-admin-template: https://github.com/BootstrapDash/PurpleAdmin-Free-Admin-Template
+
+https://www.bootstrapdash.com/bootstrap-4-admin-templates/
+https://github.com/PanJiaChen/vue-element-admin
+https://github.com/stisla/stisla
